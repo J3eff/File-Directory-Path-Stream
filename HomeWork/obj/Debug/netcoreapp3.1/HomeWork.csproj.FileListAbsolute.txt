@@ -1,0 +1,13 @@
+D:\CursoCshap\Capitulos\Trabalhando com arquivos\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.exe
+D:\CursoCshap\Capitulos\Trabalhando com arquivos\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.deps.json
+D:\CursoCshap\Capitulos\Trabalhando com arquivos\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.json
+D:\CursoCshap\Capitulos\Trabalhando com arquivos\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.dev.json
+D:\CursoCshap\Capitulos\Trabalhando com arquivos\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.dll
+D:\CursoCshap\Capitulos\Trabalhando com arquivos\HomeWork\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.pdb
+D:\CursoCshap\Capitulos\Trabalhando com arquivos\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csprojAssemblyReference.cache
+D:\CursoCshap\Capitulos\Trabalhando com arquivos\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.cache
+D:\CursoCshap\Capitulos\Trabalhando com arquivos\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
+D:\CursoCshap\Capitulos\Trabalhando com arquivos\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.CoreCompileInputs.cache
+D:\CursoCshap\Capitulos\Trabalhando com arquivos\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.dll
+D:\CursoCshap\Capitulos\Trabalhando com arquivos\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.pdb
+D:\CursoCshap\Capitulos\Trabalhando com arquivos\HomeWork\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.genruntimeconfig.cache
